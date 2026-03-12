@@ -102,13 +102,13 @@ class Program
         Console.WriteLine("\n--- University Course Enrollment ---\n");
 
         c1.Enroll("Rahul");
-        c1.Enroll("Sneha");
-        c1.Enroll("Arjun");
+        c1.Enroll("Rohit");
+        c1.Enroll("Rohan");
 
         Console.WriteLine();
 
-        c2.Enroll("Kiran");
-        c2.Enroll("Meera");
+        c2.Enroll("Roshan");
+        c2.Enroll("Pooja");
 
         Console.WriteLine();
 
