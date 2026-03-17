@@ -1,117 +1,149 @@
 using System;
 
-// Abstract base class (cannot be created directly)
 abstract class Course
 {
-    protected string courseTitle;
-    protected int maxStudents;
-    protected int currentStudents;
+    public string? CourseName;
 
-    public Course(string title, int limit)
+    public Course(string name)
     {
-        courseTitle = title;
-        maxStudents = limit;
-        currentStudents = 0;
+        CourseName = name;
     }
 
-    // Abstract method
-    public abstract void Enroll(string studentName);
+    public abstract void Enroll();
+
+    public virtual void Display()
+    {
+        
+        Console.WriteLine("Course Name: " + CourseName);
+    }
 }
 
-// Online Course
 class OnlineCourse : Course
 {
-    public OnlineCourse(string title, int limit) : base(title, limit) { }
+    private string? email;
 
-    public override void Enroll(string studentName)
+    public OnlineCourse(string name) : base(name) { }
+
+    public override void Enroll()
     {
-        if (currentStudents < maxStudents)
+        while (true)
         {
-            currentStudents++;
-            Console.WriteLine(studentName + " joined the online course: " + courseTitle);
-        }
-        else
-        {
-            Console.WriteLine("Cannot enroll. Online course is full.");
-        }
-    }
-}
+            Console.WriteLine("Enter email:");
+            email = Console.ReadLine();
 
-// In-Person Course
-class ClassroomCourse : Course
-{
-    private string room;
-
-    public ClassroomCourse(string title, int limit, string roomNo) : base(title, limit)
-    {
-        room = roomNo;
-    }
-
-    public override void Enroll(string studentName)
-    {
-        if (currentStudents < maxStudents)
-        {
-            currentStudents++;
-            Console.WriteLine(studentName + " enrolled in classroom course: " + courseTitle + " (Room " + room + ")");
-        }
-        else
-        {
-            Console.WriteLine("Classroom is already full.");
-        }
-    }
-}
-
-// Lab Course
-class LabCourse : Course
-{
-    public LabCourse(string title, int limit) : base(title, limit) { }
-
-    public override void Enroll(string studentName)
-    {
-        Console.Write("Did " + studentName + " complete lab safety training? (yes/no): ");
-        string answer = Console.ReadLine();
-
-        if (answer.ToLower() == "yes")
-        {
-            if (currentStudents < maxStudents)
+            if (!string.IsNullOrWhiteSpace(email) && email.Contains("@") && email.Contains("."))
             {
-                currentStudents++;
-                Console.WriteLine(studentName + " enrolled in lab course: " + courseTitle);
+                Console.WriteLine("Valid Email!");
+                break;
             }
             else
             {
-                Console.WriteLine("Lab seats are full.");
+                Console.WriteLine("Invalid email, try again.");
             }
         }
-        else
-        {
-            Console.WriteLine("Enrollment denied. Safety training required.");
-        }
+
+        Console.WriteLine("Enrolled in Online Course");
+    }
+
+    public override void Display()
+    {
+        base.Display();
+        Console.WriteLine("Course Type: Online");
+        Console.WriteLine("Enrolled Email: " + email);
     }
 }
 
-// Main Program
+class InPersonCourse : Course
+{
+    private string? studentName;
+
+    public InPersonCourse(string name) : base(name) { }
+
+    public override void Enroll()
+    {
+        while (true)
+        {
+            Console.WriteLine("Enter your name:");
+            studentName = Console.ReadLine();
+
+            if (!string.IsNullOrWhiteSpace(studentName))
+            {
+                Console.WriteLine("Enrolled in In-Person Course");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid name, try again.");
+            }
+        }
+    }
+
+    public override void Display()
+    {
+        base.Display();
+        Console.WriteLine("Course Type: In-Person");
+        Console.WriteLine("Student Name: " + studentName);
+    }
+}
+
+class LabCourse : Course
+{
+    private string? rollNumber;
+
+    public LabCourse(string name) : base(name) { }
+
+    public override void Enroll()
+    {
+        while (true)
+        {
+            Console.WriteLine("Enter your roll number:");
+            rollNumber = Console.ReadLine();
+
+            if (!string.IsNullOrWhiteSpace(rollNumber))
+            {
+                Console.WriteLine("Enrolled in Lab Course");
+                break;
+            }
+            else
+            {
+                Console.WriteLine("Invalid roll number, try again.");
+            }
+        }
+    }
+
+    public override void Display()
+    {
+        base.Display();
+        Console.WriteLine("Course Type: Lab");
+        Console.WriteLine("Roll Number: " + rollNumber);
+    }
+}
+
 class Program
 {
     static void Main()
     {
-        Course c1 = new OnlineCourse("Intro to AI", 2);
-        Course c2 = new ClassroomCourse("Data Structures", 2, "A101");
-        Course c3 = new LabCourse("Electronics Lab", 2);
+        Course c1 = new OnlineCourse("Programming in C#");
+        Course c2 = new InPersonCourse("Java FullStack");
+        Course c3 = new LabCourse("Physics Lab");
 
-        Console.WriteLine("\n--- University Course Enrollment ---\n");
-
-        c1.Enroll("Rahul");
-        c1.Enroll("Sneha");
-        c1.Enroll("Arjun");
-
+        c1.Enroll();
         Console.WriteLine();
 
-        c2.Enroll("Kiran");
-        c2.Enroll("Meera");
-
+        c2.Enroll();
         Console.WriteLine();
 
-        c3.Enroll("Ravi");
+        c3.Enroll();
+        Console.WriteLine();
+
+        Console.WriteLine("\nCourse Details are as follows:\n");
+
+        c1.Display();
+        Console.WriteLine();
+
+        c2.Display();
+        Console.WriteLine();
+
+        c3.Display();
     }
 }
