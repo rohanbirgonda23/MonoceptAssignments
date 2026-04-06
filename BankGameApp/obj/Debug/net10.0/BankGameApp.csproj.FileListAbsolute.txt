@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\bin\Debug\net10.0\BankGameApp.exe
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\bin\Debug\net10.0\BankGameApp.deps.json
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\bin\Debug\net10.0\BankGameApp.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\bin\Debug\net10.0\BankGameApp.dll
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\bin\Debug\net10.0\BankGameApp.pdb
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.dll
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\refint\BankGameApp.dll
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.pdb
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\BankGameApp.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\BankGameApp\obj\Debug\net10.0\ref\BankGameApp.dll
