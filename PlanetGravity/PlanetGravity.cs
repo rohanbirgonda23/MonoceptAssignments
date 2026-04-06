@@ -1,6 +1,5 @@
 using System;
 
-// Define enum
 enum Planet
 {
     MERCURY,
@@ -13,10 +12,9 @@ enum Planet
     NEPTUNE
 }
 
-class Program
+class PlanetCalculator
 {
-    // Method to get gravity relative to Earth
-    static double GetGravity(Planet planet)
+    public double GetGravity(Planet planet)
     {
         switch (planet)
         {
@@ -32,11 +30,8 @@ class Program
         }
     }
 
-    static void Main()
+    public void DisplayWeights(double earthWeight)
     {
-        Console.Write("Enter your weight on Earth (kg): ");
-        double earthWeight = Convert.ToDouble(Console.ReadLine());
-
         Console.WriteLine("\nWeight on Different Planets:\n");
 
         foreach (Planet p in Enum.GetValues(typeof(Planet)))

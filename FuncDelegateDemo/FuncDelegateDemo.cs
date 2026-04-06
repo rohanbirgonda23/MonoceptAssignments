@@ -2,21 +2,18 @@ using System;
 
 namespace OrderSystem
 {
-    class Program
+    class OrderCalculator
     {
-        static void Main(string[] args)
+        public double CalculateDiscount(double price)
         {
-            Console.Write("Enter product price: ");
-            double price = Convert.ToDouble(Console.ReadLine());
-
             Func<double, double> calculateDiscount = p => p > 1000 ? p * 0.15 : p * 0.05;
+            return calculateDiscount(price);
+        }
+
+        public double CalculateFinalPrice(double price, double discount)
+        {
             Func<double, double, double> calculateFinalPrice = (p, d) => p - d;
-
-            double discount = calculateDiscount(price);
-            double finalPrice = calculateFinalPrice(price, discount);
-
-            Console.WriteLine("Discount: " + discount);
-            Console.WriteLine("Final Price: " + finalPrice);
+            return calculateFinalPrice(price, discount);
         }
     }
 }

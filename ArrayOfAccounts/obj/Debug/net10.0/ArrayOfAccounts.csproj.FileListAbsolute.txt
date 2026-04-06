@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\bin\Debug\net10.0\ArrayOfAccounts.exe
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\bin\Debug\net10.0\ArrayOfAccounts.deps.json
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\bin\Debug\net10.0\ArrayOfAccounts.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\bin\Debug\net10.0\ArrayOfAccounts.dll
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\bin\Debug\net10.0\ArrayOfAccounts.pdb
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.dll
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\refint\ArrayOfAccounts.dll
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.pdb
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ArrayOfAccounts.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\ArrayOfAccounts\obj\Debug\net10.0\ref\ArrayOfAccounts.dll

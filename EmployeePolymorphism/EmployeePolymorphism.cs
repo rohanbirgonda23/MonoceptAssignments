@@ -75,17 +75,3 @@ class Tester : Employee
 }
 
 // Main Program
-class Program
-{
-    static void Main()
-    {
-        // Polymorphism (same reference, different objects)
-        Employee e1 = new Manager(1, "Rohan", 50000);
-        Employee e2 = new Developer(2, "Amit", 40000);
-        Employee e3 = new Tester(3, "Neha", 30000);
-
-        e1.Display();
-        e2.Display();
-        e3.Display();
-    }
-}

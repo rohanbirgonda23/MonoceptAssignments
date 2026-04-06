@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\bin\Debug\net10.0\BookDiscountCalculator.exe
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\bin\Debug\net10.0\BookDiscountCalculator.deps.json
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\bin\Debug\net10.0\BookDiscountCalculator.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\bin\Debug\net10.0\BookDiscountCalculator.dll
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\bin\Debug\net10.0\BookDiscountCalculator.pdb
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.dll
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\refint\BookDiscountCalculator.dll
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.pdb
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\BookDiscountCalculator.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\BookDiscountCalculator\obj\Debug\net10.0\ref\BookDiscountCalculator.dll

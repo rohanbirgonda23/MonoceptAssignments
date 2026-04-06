@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\bin\Debug\net10.0\AccountApp.exe
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\bin\Debug\net10.0\AccountApp.deps.json
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\bin\Debug\net10.0\AccountApp.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\bin\Debug\net10.0\AccountApp.dll
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\bin\Debug\net10.0\AccountApp.pdb
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.dll
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\refint\AccountApp.dll
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.pdb
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\AccountApp.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\AccountApp\obj\Debug\net10.0\ref\AccountApp.dll

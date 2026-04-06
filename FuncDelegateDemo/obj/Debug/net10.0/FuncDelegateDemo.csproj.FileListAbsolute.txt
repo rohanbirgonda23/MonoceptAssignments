@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\bin\Debug\net10.0\FuncDelegateDemo.exe
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\bin\Debug\net10.0\FuncDelegateDemo.deps.json
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\bin\Debug\net10.0\FuncDelegateDemo.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\bin\Debug\net10.0\FuncDelegateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\bin\Debug\net10.0\FuncDelegateDemo.pdb
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\refint\FuncDelegateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.pdb
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\FuncDelegateDemo.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\FuncDelegateDemo\obj\Debug\net10.0\ref\FuncDelegateDemo.dll

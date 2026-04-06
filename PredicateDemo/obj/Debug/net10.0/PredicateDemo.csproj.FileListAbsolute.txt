@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\bin\Debug\net10.0\PredicateDemo.exe
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\bin\Debug\net10.0\PredicateDemo.deps.json
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\bin\Debug\net10.0\PredicateDemo.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\bin\Debug\net10.0\PredicateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\bin\Debug\net10.0\PredicateDemo.pdb
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\refint\PredicateDemo.dll
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.pdb
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\PredicateDemo.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\PredicateDemo\obj\Debug\net10.0\ref\PredicateDemo.dll

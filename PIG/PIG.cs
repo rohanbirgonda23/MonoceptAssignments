@@ -1,8 +1,8 @@
 using System;
 
-class Program
+class PigGame
 {
-    static void Main()
+    public void StartGame()
     {
         Random rand = new Random();
         int total = 0;
@@ -27,7 +27,7 @@ class Program
 
                     if (dice == 1)
                     {
-                        turn = 0;
+                        turnScore = 0;
                         Console.WriteLine("You lost this turn!");
                         Console.WriteLine("Turn Score: " + turnScore + " | Total Score: " + total);
                         break;

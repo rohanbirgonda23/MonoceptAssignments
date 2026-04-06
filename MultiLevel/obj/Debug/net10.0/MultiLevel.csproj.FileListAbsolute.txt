@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\bin\Debug\net10.0\MultiLevel.exe
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\bin\Debug\net10.0\MultiLevel.deps.json
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\bin\Debug\net10.0\MultiLevel.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\bin\Debug\net10.0\MultiLevel.dll
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\bin\Debug\net10.0\MultiLevel.pdb
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.dll
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\refint\MultiLevel.dll
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.pdb
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\MultiLevel.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\MultiLevel\obj\Debug\net10.0\ref\MultiLevel.dll

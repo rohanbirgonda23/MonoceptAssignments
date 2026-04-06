@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\bin\Debug\net10.0\ListSetDictionaryOperations.exe
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\bin\Debug\net10.0\ListSetDictionaryOperations.deps.json
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\bin\Debug\net10.0\ListSetDictionaryOperations.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\bin\Debug\net10.0\ListSetDictionaryOperations.dll
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\bin\Debug\net10.0\ListSetDictionaryOperations.pdb
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.dll
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\refint\ListSetDictionaryOperations.dll
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.pdb
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ListSetDictionaryOperations.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\ListSetDictionaryOperations\obj\Debug\net10.0\ref\ListSetDictionaryOperations.dll

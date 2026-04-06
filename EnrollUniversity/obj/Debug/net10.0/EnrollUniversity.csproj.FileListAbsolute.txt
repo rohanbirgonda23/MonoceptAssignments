@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\bin\Debug\net10.0\EnrollUniversity.exe
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\bin\Debug\net10.0\EnrollUniversity.deps.json
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\bin\Debug\net10.0\EnrollUniversity.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\bin\Debug\net10.0\EnrollUniversity.dll
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\bin\Debug\net10.0\EnrollUniversity.pdb
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.dll
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\refint\EnrollUniversity.dll
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.pdb
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\EnrollUniversity.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\EnrollUniversity\obj\Debug\net10.0\ref\EnrollUniversity.dll
