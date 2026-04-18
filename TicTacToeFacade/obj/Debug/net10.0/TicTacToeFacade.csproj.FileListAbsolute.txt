@@ -1,0 +1,15 @@
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\bin\Debug\net10.0\TicTacToeFacade.exe
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\bin\Debug\net10.0\TicTacToeFacade.deps.json
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\bin\Debug\net10.0\TicTacToeFacade.runtimeconfig.json
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\bin\Debug\net10.0\TicTacToeFacade.dll
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\bin\Debug\net10.0\TicTacToeFacade.pdb
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.AssemblyInfoInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.AssemblyInfo.cs
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.csproj.CoreCompileInputs.cache
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.sourcelink.json
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.dll
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\refint\TicTacToeFacade.dll
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.pdb
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\TicTacToeFacade.genruntimeconfig.cache
+C:\Users\BRohan\Swabhav-Assignments\TicTacToeFacade\obj\Debug\net10.0\ref\TicTacToeFacade.dll

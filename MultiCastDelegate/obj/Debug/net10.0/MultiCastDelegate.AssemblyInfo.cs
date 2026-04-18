@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efe3e49818a14bf8af1287f99a0d60bbe9b68a31")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b62d70c0d8ced236b54cb73e04bded11d5f307d")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiCastDelegate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
